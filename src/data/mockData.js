@@ -268,54 +268,54 @@ export const mockDataInvoices = [
 
 export const mockAccordionData = [
   {
-    question: "How do I create a new user?",
+    question: "What is SentinelEye?",
     details:
-      "To create a new user, navigate to the Users section in the admin dashboard. Click on the 'Add User' button and fill in the required information such as username, email, and password. Then, click on the 'Save' button to create the user.",
+      "SentinelEye is a dashboard designed to provide an overview of key metrics related to email communication, sales, client acquisition, and traffic analysis. It helps users manage teams, contacts, invoices, and visualize data using various charts.",
   },
   {
-    question: "How can I manage permissions for users?",
+    question: "How do I navigate the dashboard?",
     details:
-      "To manage permissions for users, go to the Permissions section in the admin dashboard. Here, you can assign or revoke specific permissions for each user by selecting the user and adjusting their permissions accordingly.",
+      "The dashboard consists of a sidebar menu with different sections. The Dashboard is the main page displaying key metrics and analytics. The Manage Team section allows users to add, edit, and manage team members. Contacts Information stores and manages contact details, while Invoices Balances helps track financial transactions. The Profile Form section lets users update their profile, and the Calendar displays scheduled events. Lastly, the FAQ Page provides answers to common questions related to the platform.",
   },
   {
-    question: "What is the process for adding a new product?",
+    question: "How can I download reports?",
     details:
-      "To add a new product, navigate to the Products section in the admin dashboard. Click on the 'Add Product' button and fill in the details such as product name, description, price, and images. Finally, click on the 'Save' button to add the product.",
+      "Users can download detailed reports by clicking the Download Reports button located at the top-right corner of the dashboard. This allows them to access and analyze important data in a structured format.",
   },
   {
-    question: "How do I update existing user information?",
+    question: "What do the metrics on the dashboard represent?",
     details:
-      "To update existing user information, find the user in the Users section of the admin dashboard. Click on the user to view their details, then click on the 'Edit' button. Update the necessary information and click on the 'Save' button to apply the changes.",
+      "The dashboard displays several key metrics. Email Sent indicates the total number of emails dispatched, while Sales Obtained represents the number of successful sales. New Clients shows the count of recently acquired customers, and Traffic Received provides insights into the total website or platform traffic over a given period.",
   },
   {
-    question: "What are the steps to delete a product?",
+    question: "What kind of charts are available?",
     details:
-      "To delete a product, navigate to the Products section in the admin dashboard. Find the product you want to delete and click on the 'Delete' button. Confirm the action when prompted, and the product will be permanently removed from the system.",
+      "The dashboard includes various visual representations of data. The Revenue Generated chart is a line graph that illustrates revenue trends over time. The Sales Quantity chart is a bar graph displaying the distribution of sales across different categories. Additionally, the Geography-Based Traffic map provides a visual representation of user locations, helping businesses understand their audience better.",
   },
   {
-    question: "How can I view sales reports?",
+    question: "How do I view recent transactions?",
     details:
-      "To view sales reports, go to the Reports section in the admin dashboard. Here, you can generate various reports such as sales by day, month, or year, top-selling products, and revenue trends.",
+      "Recent transactions are displayed on the right side of the dashboard under the Recent Transactions section. This section provides details such as transaction ID, customer name, date of the transaction, and the amount involved, helping users track financial activities efficiently.",
   },
   {
-    question: "What options are available for managing customer orders?",
+    question: "Can I customize my dashboard?",
     details:
-      "To manage customer orders, navigate to the Orders section in the admin dashboard. Here, you can view all orders, process pending orders, update order status, and manage order fulfillment and shipping details.",
+      "Customization options depend on the user's role and admin privileges. Some features may be adjustable based on permissions, but major modifications to the dashboard layout or functionalities typically require administrative access. Users can contact their administrator for customization requests.",
   },
   {
-    question: "How do I customize the appearance of the dashboard?",
+    question: "How do I manage my profile?",
     details:
-      "To customize the appearance of the dashboard, go to the Settings section in the admin dashboard. Here, you can adjust various settings such as theme colors, layout options, and dashboard widgets.",
+      "Users can update their personal details, including their name, role, and contact information, in the Profile Form section. This allows them to keep their profile information up to date for accurate records and communication.",
   },
   {
-    question: "What security measures are in place to protect user data?",
+    question: "Who has access to the dashboard?",
     details:
-      "We take security seriously and have implemented various measures to protect user data. These include encryption of sensitive information, regular security audits, and compliance with industry standards and regulations.",
+      "Access to the dashboard is restricted to authorized users who have valid login credentials. Admin users have additional privileges that allow them to manage team members, modify data, and oversee platform activities, ensuring secure and organized operations.",
   },
   {
-    question: "How can I contact support for assistance?",
+    question: "How do I get support?",
     details:
-      "For assistance or support inquiries, please contact our customer support team via email at support@example.com or by phone at 1-800-123-4567. Our support team is available to assist you with any questions or issues you may have.",
+      "For assistance, users can reach out to the support team through the Help or Contact Us section of the platform. This ensures they receive guidance and troubleshooting solutions for any issues encountered while using the dashboard.",
   },
 ];
 
