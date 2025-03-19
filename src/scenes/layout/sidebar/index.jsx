@@ -18,7 +18,7 @@ import {
   TimelineOutlined,
   WavesOutlined,
 } from "@mui/icons-material";
-import avatar from "../../../assets/images/avatar.png";
+import avatar from "../../../assets/images/avatar.jpg";
 import logo from "../../../assets/images/logo.png";
 import Item from "./Item";
 import { ToggledContext } from "../../../App";
@@ -76,7 +76,7 @@ const SideBar = () => {
                   textTransform="capitalize"
                   color={colors.greenAccent[500]}
                 >
-                  Argon
+                  SentinelEye
                 </Typography>
               </Box>
             )}
@@ -103,14 +103,14 @@ const SideBar = () => {
           />
           <Box sx={{ textAlign: "center" }}>
             <Typography variant="h3" fontWeight="bold" color={colors.gray[100]}>
-              Tony Stark
+              Harsh
             </Typography>
             <Typography
               variant="h6"
               fontWeight="500"
               color={colors.greenAccent[500]}
             >
-              VP Fancy Admin
+              Admin
             </Typography>
           </Box>
         </Box>
