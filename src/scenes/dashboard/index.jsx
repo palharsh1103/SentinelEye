@@ -282,7 +282,7 @@ function Dashboard() {
             fontWeight="600"
             sx={{ p: "30px 30px 0 30px" }}
           >
-            Sales Quantity
+            Types of Crime Cases
           </Typography>
           <Box
             display="flex"
@@ -303,7 +303,7 @@ function Dashboard() {
           padding="30px"
         >
           <Typography variant="h5" fontWeight="600" mb="15px">
-            Geography Based Traffic
+            Geography Based Crime Traffic
           </Typography>
           <Box
             display="flex"
