@@ -171,14 +171,14 @@ function Dashboard() {
                 fontWeight="600"
                 color={colors.gray[100]}
               >
-                Revenue Generated
+                Cases Solved
               </Typography>
               <Typography
                 variant="h5"
                 fontWeight="bold"
                 color={colors.greenAccent[500]}
               >
-                $59,342.32
+                9703
               </Typography>
             </Box>
             <IconButton>
@@ -201,7 +201,7 @@ function Dashboard() {
         >
           <Box borderBottom={`4px solid ${colors.primary[500]}`} p="15px">
             <Typography color={colors.gray[100]} variant="h5" fontWeight="600">
-              Recent Transactions
+              Recent Active Cases
             </Typography>
           </Box>
 
