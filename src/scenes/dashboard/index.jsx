@@ -248,7 +248,7 @@ function Dashboard() {
           p="30px"
         >
           <Typography variant="h5" fontWeight="600">
-            Campaign
+            Total Number Of Cases
           </Typography>
           <Box
             display="flex"
@@ -263,10 +263,10 @@ function Dashboard() {
               color={colors.greenAccent[500]}
               sx={{ mt: "15px" }}
             >
-              $48,352 revenue generated
+              Total Cases
             </Typography>
             <Typography textAlign="center">
-              Includes extra misc expenditures and costs
+              Pending + Active Cases
             </Typography>
           </Box>
         </Box>
