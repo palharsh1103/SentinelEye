@@ -100,9 +100,9 @@ function Dashboard() {
         >
           <StatBox
             title="431,225"
-            subtitle="Sales Obtained"
+            subtitle="Crime Rate Change"
             progress="0.50"
-            increase="+21%"
+            increase="-.69%"
             icon={
               <PointOfSale
                 sx={{ color: colors.greenAccent[600], fontSize: "26px" }}
