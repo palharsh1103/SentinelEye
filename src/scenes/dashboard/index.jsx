@@ -118,8 +118,8 @@ function Dashboard() {
           justifyContent="center"
         >
           <StatBox
-            title="32,441"
-            subtitle="New Clients"
+            title="394"
+            subtitle="Criminal Activities Detected"
             progress="0.30"
             increase="+5%"
             icon={
