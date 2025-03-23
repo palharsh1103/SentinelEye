@@ -372,7 +372,7 @@ export const mockTransactions = [
 
 export const mockBarData = [
   {
-    country: "AD",
+    country: "Kanpur",
     "Kidnapping": 137,
     "KidnappingColor": "hsl(229, 70%, 50%)",
     Murder: 96,
@@ -383,7 +383,7 @@ export const mockBarData = [
     TheftColor: "hsl(340, 70%, 50%)",
   },
   {
-    country: "AE",
+    country: "Lucknow",
     "Kidnapping": 55,
     "KidnappingColor": "hsl(307, 70%, 50%)",
     Murder: 28,
@@ -394,7 +394,7 @@ export const mockBarData = [
     TheftColor: "hsl(275, 70%, 50%)",
   },
   {
-    country: "AF",
+    country: "Agra",
     "Kidnapping": 109,
     "KidnappingColor": "hsl(72, 70%, 50%)",
     Murder: 23,
@@ -405,7 +405,7 @@ export const mockBarData = [
     TheftColor: "hsl(256, 70%, 50%)",
   },
   {
-    country: "AG",
+    country: "Prayagraj",
     "Kidnapping": 133,
     "KidnappingColor": "hsl(257, 70%, 50%)",
     Murder: 52,
@@ -416,7 +416,7 @@ export const mockBarData = [
     TheftColor: "hsl(9, 70%, 50%)",
   },
   {
-    country: "AI",
+    country: "Gorakhpur",
     "Kidnapping": 81,
     "KidnappingColor": "hsl(190, 70%, 50%)",
     Murder: 80,
@@ -427,7 +427,7 @@ export const mockBarData = [
     TheftColor: "hsl(285, 70%, 50%)",
   },
   {
-    country: "AL",
+    country: "Varanasi",
     "Kidnapping": 66,
     "KidnappingColor": "hsl(208, 70%, 50%)",
     Murder: 111,
@@ -438,7 +438,7 @@ export const mockBarData = [
     TheftColor: "hsl(76, 70%, 50%)",
   },
   {
-    country: "AM",
+    country: "Mirzapur",
     "Kidnapping": 80,
     "KidnappingColor": "hsl(87, 70%, 50%)",
     Murder: 47,
@@ -527,201 +527,130 @@ export const mockStreamData = [
 
 export const mockPieData = [
   {
-    id: "hack",
-    label: "hack",
+    id: "Fraud",
+    label: "Fraud",
     value: 239,
-    color: "hsl(104, 70%, 50%)",
+    color: "hsl(38, 96.80%, 48.40%)",
   },
   {
-    id: "make",
-    label: "make",
+    id: "Kidnapping",
+    label: "Kidnapping",
     value: 170,
-    color: "hsl(162, 70%, 50%)",
+    color: "hsl(59, 95.90%, 47.60%)",
   },
   {
-    id: "go",
-    label: "go",
+    id: "Domestic Violence",
+    label: "Domestic Violence",
     value: 322,
-    color: "hsl(291, 70%, 50%)",
+    color: "hsl(359, 92.40%, 46.70%)",
   },
   {
-    id: "lisp",
-    label: "lisp",
+    id: "Murder",
+    label: "Murder",
     value: 503,
     color: "hsl(229, 70%, 50%)",
   },
   {
-    id: "scala",
-    label: "scala",
+    id: "Cyber Crime",
+    label: "Cyber Crime",
     value: 584,
-    color: "hsl(344, 70%, 50%)",
+    color: "hsl(323, 95.10%, 48.00%)",
+  },
+  {
+    id: "Theft",
+    label: "Theft",
+    value: 584,
+    color: "hsl(198, 92.90%, 49.80%)",
   },
 ];
 
 export const mockLineData = [
   {
-    id: "japan",
+    id: "Kanpur",
     color: tokens("dark").greenAccent[500],
     data: [
-      {
-        x: "plane",
-        y: 101,
-      },
-      {
-        x: "helicopter",
-        y: 75,
-      },
-      {
-        x: "boat",
-        y: 36,
-      },
-      {
-        x: "train",
-        y: 216,
-      },
-      {
-        x: "subway",
-        y: 35,
-      },
-      {
-        x: "bus",
-        y: 236,
-      },
-      {
-        x: "car",
-        y: 88,
-      },
-      {
-        x: "moto",
-        y: 232,
-      },
-      {
-        x: "bicycle",
-        y: 281,
-      },
-      {
-        x: "horse",
-        y: 1,
-      },
-      {
-        x: "skateboard",
-        y: 35,
-      },
-      {
-        x: "others",
-        y: 14,
-      },
+      { x: "Fraud", y: 72 },
+      { x: "Kidnapping", y: 137 },
+      { x: "Domestic Violence", y: 322 },
+      { x: "Murder", y: 96 },
+      { x: "Cyber Crime", y: 584 },
+      { x: "Theft", y: 140 },
     ],
   },
   {
-    id: "france",
+    id: "Lucknow",
     color: tokens("dark").blueAccent[300],
     data: [
-      {
-        x: "plane",
-        y: 212,
-      },
-      {
-        x: "helicopter",
-        y: 190,
-      },
-      {
-        x: "boat",
-        y: 270,
-      },
-      {
-        x: "train",
-        y: 9,
-      },
-      {
-        x: "subway",
-        y: 75,
-      },
-      {
-        x: "bus",
-        y: 175,
-      },
-      {
-        x: "car",
-        y: 33,
-      },
-      {
-        x: "moto",
-        y: 189,
-      },
-      {
-        x: "bicycle",
-        y: 97,
-      },
-      {
-        x: "horse",
-        y: 87,
-      },
-      {
-        x: "skateboard",
-        y: 299,
-      },
-      {
-        x: "others",
-        y: 251,
-      },
+      { x: "Fraud", y: 58 },
+      { x: "Kidnapping", y: 55 },
+      { x: "Domestic Violence", y: 290 },
+      { x: "Murder", y: 28 },
+      { x: "Cyber Crime", y: 530 },
+      { x: "Theft", y: 29 },
     ],
   },
   {
-    id: "us",
+    id: "Agra",
     color: tokens("dark").redAccent[200],
     data: [
-      {
-        x: "plane",
-        y: 191,
-      },
-      {
-        x: "helicopter",
-        y: 136,
-      },
-      {
-        x: "boat",
-        y: 91,
-      },
-      {
-        x: "train",
-        y: 190,
-      },
-      {
-        x: "subway",
-        y: 211,
-      },
-      {
-        x: "bus",
-        y: 152,
-      },
-      {
-        x: "car",
-        y: 189,
-      },
-      {
-        x: "moto",
-        y: 152,
-      },
-      {
-        x: "bicycle",
-        y: 8,
-      },
-      {
-        x: "horse",
-        y: 197,
-      },
-      {
-        x: "skateboard",
-        y: 107,
-      },
-      {
-        x: "others",
-        y: 170,
-      },
+      { x: "Fraud", y: 34 },
+      { x: "Kidnapping", y: 109 },
+      { x: "Domestic Violence", y: 310 },
+      { x: "Murder", y: 23 },
+      { x: "Cyber Crime", y: 560 },
+      { x: "Theft", y: 152 },
     ],
   },
+  {
+    id: "Prayagraj",
+    color: tokens("dark").greenAccent[500],
+    data: [
+      { x: "Fraud", y: 43 },
+      { x: "Kidnapping", y: 133 },
+      { x: "Domestic Violence", y: 322 },
+      { x: "Murder", y: 52 },
+      { x: "Cyber Crime", y: 584 },
+      { x: "Theft", y: 83 },
+    ],
+  },
+  {
+    id: "Gorakhpur",
+    color: tokens("dark").blueAccent[300],
+    data: [
+      { x: "Fraud", y: 112 },
+      { x: "Kidnapping", y: 81 },
+      { x: "Domestic Violence", y: 290 },
+      { x: "Murder", y: 80 },
+      { x: "Cyber Crime", y: 530 },
+      { x: "Theft", y: 35 },
+    ],
+  },
+  {
+    id: "Varanasi",
+    color: tokens("dark").redAccent[200],
+    data: [
+      { x: "Fraud", y: 167 },
+      { x: "Kidnapping", y: 66 },
+      { x: "Domestic Violence", y: 310 },
+      { x: "Murder", y: 111 },
+      { x: "Cyber Crime", y: 560 },
+      { x: "Theft", y: 18 },
+    ],
+  },
+  {
+    id: "Mirzapur",
+    color: tokens("dark").greenAccent[500],
+    data: [
+      { x: "Fraud", y: 158 },
+      { x: "Kidnapping", y: 80 },
+      { x: "Domestic Violence", y: 322 },
+      { x: "Murder", y: 47 },
+      { x: "Cyber Crime", y: 584 },
+      { x: "Theft", y: 49 },
+    ],
+  }
 ];
+
 
 export const mockGeographyData = [
   {

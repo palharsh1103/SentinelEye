@@ -245,18 +245,18 @@ const SideBar = () => {
             colors={colors}
             icon={<TimelineOutlined />}
           />
-          <Item
+          {/* <Item
             title="Geography Chart"
             path="/geography"
             colors={colors}
             icon={<MapOutlined />}
-          />
-          <Item
+          /> */}
+          {/* <Item
             title="Stream Chart"
             path="/stream"
             colors={colors}
             icon={<WavesOutlined />}
-          />
+          /> */}
         </Menu>
       </Box>
     </Sidebar>
