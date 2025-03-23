@@ -99,7 +99,7 @@ function Dashboard() {
           justifyContent="center"
         >
           <StatBox
-            title="431,225"
+            title="12.56%"
             subtitle="Crime Rate Change"
             progress="0.50"
             increase="-.69%"
