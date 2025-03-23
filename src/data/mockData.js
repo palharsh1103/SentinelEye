@@ -379,8 +379,8 @@ export const mockBarData = [
     burgerColor: "hsl(296, 70%, 50%)",
     kebab: 72,
     kebabColor: "hsl(97, 70%, 50%)",
-    donut: 140,
-    donutColor: "hsl(340, 70%, 50%)",
+    Theft: 140,
+    TheftColor: "hsl(340, 70%, 50%)",
   },
   {
     country: "AE",
@@ -390,8 +390,8 @@ export const mockBarData = [
     burgerColor: "hsl(111, 70%, 50%)",
     kebab: 58,
     kebabColor: "hsl(273, 70%, 50%)",
-    donut: 29,
-    donutColor: "hsl(275, 70%, 50%)",
+    Theft: 29,
+    TheftColor: "hsl(275, 70%, 50%)",
   },
   {
     country: "AF",
@@ -401,8 +401,8 @@ export const mockBarData = [
     burgerColor: "hsl(96, 70%, 50%)",
     kebab: 34,
     kebabColor: "hsl(106, 70%, 50%)",
-    donut: 152,
-    donutColor: "hsl(256, 70%, 50%)",
+    Theft: 152,
+    TheftColor: "hsl(256, 70%, 50%)",
   },
   {
     country: "AG",
@@ -412,8 +412,8 @@ export const mockBarData = [
     burgerColor: "hsl(326, 70%, 50%)",
     kebab: 43,
     kebabColor: "hsl(110, 70%, 50%)",
-    donut: 83,
-    donutColor: "hsl(9, 70%, 50%)",
+    Theft: 83,
+    TheftColor: "hsl(9, 70%, 50%)",
   },
   {
     country: "AI",
@@ -423,8 +423,8 @@ export const mockBarData = [
     burgerColor: "hsl(325, 70%, 50%)",
     kebab: 112,
     kebabColor: "hsl(54, 70%, 50%)",
-    donut: 35,
-    donutColor: "hsl(285, 70%, 50%)",
+    Theft: 35,
+    TheftColor: "hsl(285, 70%, 50%)",
   },
   {
     country: "AL",
@@ -434,8 +434,8 @@ export const mockBarData = [
     burgerColor: "hsl(334, 70%, 50%)",
     kebab: 167,
     kebabColor: "hsl(182, 70%, 50%)",
-    donut: 18,
-    donutColor: "hsl(76, 70%, 50%)",
+    Theft: 18,
+    TheftColor: "hsl(76, 70%, 50%)",
   },
   {
     country: "AM",
@@ -445,8 +445,8 @@ export const mockBarData = [
     burgerColor: "hsl(141, 70%, 50%)",
     kebab: 158,
     kebabColor: "hsl(224, 70%, 50%)",
-    donut: 49,
-    donutColor: "hsl(274, 70%, 50%)",
+    Theft: 49,
+    TheftColor: "hsl(274, 70%, 50%)",
   },
 ];
 
