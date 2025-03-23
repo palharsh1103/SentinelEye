@@ -35,8 +35,8 @@ export const mockDataTeam = [
   },
   {
     id: 5,
-    name: "Daenerys Targaryen",
-    email: "daenerystargaryen@gmail.com",
+    name: "DJodhpurnerys Targaryen",
+    email: "dJodhpurnerystargaryen@gmail.com",
     age: 31,
     phone: "(421)445-1189",
     access: "user",
@@ -122,8 +122,8 @@ export const mockDataContacts = [
   },
   {
     id: 5,
-    name: "Daenerys Targaryen",
-    email: "daenerystargaryen@gmail.com",
+    name: "DJodhpurnerys Targaryen",
+    email: "dJodhpurnerystargaryen@gmail.com",
     age: 31,
     phone: "(421)445-1189",
     address: "11122 Welping Ave, Tenting, CD 21321",
@@ -234,8 +234,8 @@ export const mockDataInvoices = [
   },
   {
     id: 5,
-    name: "Daenerys Targaryen",
-    email: "daenerystargaryen@gmail.com",
+    name: "DJodhpurnerys Targaryen",
+    email: "dJodhpurnerystargaryen@gmail.com",
     cost: "1.24",
     phone: "(421)445-1189",
     date: "01/12/2021",
@@ -372,7 +372,7 @@ export const mockTransactions = [
 
 export const mockBarData = [
   {
-    country: "AD",
+    cities: "Jaipur",
     "Kidnapping": 137,
     "KidnappingColor": "hsl(229, 70%, 50%)",
     Murder: 96,
@@ -383,7 +383,7 @@ export const mockBarData = [
     TheftColor: "hsl(340, 70%, 50%)",
   },
   {
-    country: "AE",
+    cities: "Jodhpur",
     "Kidnapping": 55,
     "KidnappingColor": "hsl(307, 70%, 50%)",
     Murder: 28,
@@ -394,7 +394,7 @@ export const mockBarData = [
     TheftColor: "hsl(275, 70%, 50%)",
   },
   {
-    country: "AF",
+    cities: "Jaisalmer",
     "Kidnapping": 109,
     "KidnappingColor": "hsl(72, 70%, 50%)",
     Murder: 23,
@@ -405,7 +405,7 @@ export const mockBarData = [
     TheftColor: "hsl(256, 70%, 50%)",
   },
   {
-    country: "AG",
+    cities: "Udaipur",
     "Kidnapping": 133,
     "KidnappingColor": "hsl(257, 70%, 50%)",
     Murder: 52,
@@ -416,7 +416,7 @@ export const mockBarData = [
     TheftColor: "hsl(9, 70%, 50%)",
   },
   {
-    country: "AI",
+    cities: "Ajmer",
     "Kidnapping": 81,
     "KidnappingColor": "hsl(190, 70%, 50%)",
     Murder: 80,
@@ -427,7 +427,7 @@ export const mockBarData = [
     TheftColor: "hsl(285, 70%, 50%)",
   },
   {
-    country: "AL",
+    cities: "Alwar",
     "Kidnapping": 66,
     "KidnappingColor": "hsl(208, 70%, 50%)",
     Murder: 111,
@@ -438,7 +438,7 @@ export const mockBarData = [
     TheftColor: "hsl(76, 70%, 50%)",
   },
   {
-    country: "AM",
+    cities: "Kota",
     "Kidnapping": 80,
     "KidnappingColor": "hsl(87, 70%, 50%)",
     Murder: 47,
