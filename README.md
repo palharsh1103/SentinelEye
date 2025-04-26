@@ -13,11 +13,6 @@ Welcome to the **SentinelEye Admin Dashboard**, a sleek and feature-rich solutio
 - **FAQ Page**: Provide answers to common queries using **MUI Accordion**.
 - **Charts Pages**: Visualize data effectively with a variety of chart types, including **Bar**, **Pie**, **Line**, **Geography**, and **Stream**.
 
-## Demo
-
-Explore the live demo of the **SentinelEye Admin Dashboard** here:  
-[SentinelEye Demo](https://vercel.com/palharsh1103s-projects/sentinel-eye/5w8xXxhyvYCDayTo8pqEasTCKr9N)
-
 ## Get Started
 
 Follow the steps below to get the project running locally:
