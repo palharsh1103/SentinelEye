@@ -16,7 +16,7 @@ Welcome to the **SentinelEye Admin Dashboard**, a sleek and feature-rich solutio
 ## Demo
 
 Explore the live demo of the **SentinelEye Admin Dashboard** here:  
-[SentinelEye Demo](https://github.com/palharsh1103/SentinelEye.git)
+[SentinelEye Demo](https://vercel.com/palharsh1103s-projects/sentinel-eye/5w8xXxhyvYCDayTo8pqEasTCKr9N)
 
 ## Get Started
 
